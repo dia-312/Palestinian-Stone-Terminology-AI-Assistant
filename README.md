@@ -2,6 +2,9 @@
 
 شات بوت ذكي متخصص في مصطلحات الحجر الفلسطيني المحلية، مبني على تقنية RAG (Retrieval-Augmented Generation).
 
+## 🔗 التطبيق المباشر
+[افتح التطبيق](https://palestinian-stone-terminology-ai-assistant-2elx3rts7k5kdbsoj9e.streamlit.app/)
+
 ## المميزات
 - يجاوب على أسئلة مصطلحات الحجر المحلية الفلسطينية
 - يستخدم قاعدة بيانات من المصطلحات المحلية
