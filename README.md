@@ -16,7 +16,7 @@
 
 ### 1. استنسخ المشروع
 ```bash
-git clone https://github.com/your-username/stone-rag.git
+git clone  https://github.com/dia-312/Palestinian-Stone-Terminology-AI-Assistant.git
 cd stone-rag
 ```
 
