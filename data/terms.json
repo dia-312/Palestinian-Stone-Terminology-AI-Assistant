@@ -1,0 +1,1293 @@
+[
+  {
+    "term_local": "بيشرب مي",
+    "term_arabic": "امتصاص الماء",
+    "term_category": "property",
+    "term_standard": "water absorpation",
+    "meaning_simple": "يعني الحجر بيمتص المي بسرعة وبيأثر عليه البلل اضافة الى سرعة تاثره بالعوامل الجوية مستقبلا",
+    "scientific_description": "high prostity and capillary absorpation",
+    "synonyms": [
+      "مسامي",
+      "ماص",
+      "طري",
+      "جودة رديئة"
+    ],
+    "common_usage": [
+      "في الديكور الداخلي والبعيد عن التعرض المباشر للماء"
+    ],
+    "notes": "سعره اقل من الانواع الاخرى ويستخدم بكثرة في الديكور الداخلي وفن الحجر لسهولة تشكيله وعدم قسوته"
+  },
+  {
+    "term_local": "حجر مفجر",
+    "term_arabic": "مفجر",
+    "term_category": "finish",
+    "term_standard": "Split Face Finish",
+    "meaning_simple": "تفنيش لوجه الحجر بعد القص ويكون حفر منظمة عمودية",
+    "scientific_description": "Stone surface created as a finish",
+    "synonyms": [
+      "محفر",
+      "خشن"
+    ],
+    "common_usage": [
+      "في تلبيس الاسوار",
+      "العمارات التجارية او الشخصية",
+      "ديكور"
+    ],
+    "notes": "دارج حاليا في السوق الفلسطيني ومتعارف عليه وغير مكلف ويصلح على اغلب انواع الصخر"
+  },
+  {
+    "term_local": "مسمسم",
+    "term_arabic": "حجر مسمسم",
+    "term_category": "finish",
+    "term_standard": "finish",
+    "meaning_simple": "اضافة على وجه الحجر كفنش وهي عبارة عن حفر صغيرة وكثيرة على سطح الحجر وتكون انعم من المفجر",
+    "scientific_description": "Surface treated create grain texture",
+    "synonyms": [
+      "ناعم",
+      "عشوائي",
+      "محبب"
+    ],
+    "common_usage": [
+      "في الاسوار",
+      "تلبيس البنايات",
+      "الديكور"
+    ],
+    "notes": "متعارف علي في السوق الفلسطيني وغير مكلف جدا"
+  },
+  {
+    "term_local": "حجر مطبة",
+    "term_arabic": "مطبة",
+    "term_category": "finish",
+    "term_standard": "soft finish",
+    "meaning_simple": "حجر بفنش ناعم على وجهه ويكون زي نتوء صغيرة ى كامل سطح الحجر",
+    "scientific_description": "Uneven protruding stone surface",
+    "synonyms": [
+      "مطبوب",
+      "مطبة",
+      "ناعم",
+      "منقر"
+    ],
+    "common_usage": [
+      "على الاسوار",
+      "البنايات التجارية",
+      "الديكور وفن الحجر",
+      "بلاط"
+    ],
+    "notes": "وجه ناعم ومرغوب جدا في السوق يصلح لجكيع انواع الحجر  وللتصميم الداخلي والخارجي"
+  },
+  {
+    "term_local": "حجر ملطش",
+    "term_arabic": "ملطش",
+    "term_category": "finish",
+    "term_standard": "Rough Chiseled Finish",
+    "meaning_simple": "Stone face roughly struck by chisel",
+    "scientific_description": "",
+    "synonyms": [],
+    "common_usage": [],
+    "notes": ""
+  },
+  {
+    "term_local": "حجر ملطش",
+    "term_arabic": "ملطش",
+    "term_category": "finish",
+    "term_standard": "Rough Chiseled Finish",
+    "meaning_simple": "حجر بشبه حجر المفجر ولكن خط الحفر يكون مائل قليلا",
+    "scientific_description": "Stone face roughly struck by chisel",
+    "synonyms": [
+      "ملطش",
+      "بشبه الفجر",
+      "محفر بشكل مائل"
+    ],
+    "common_usage": [
+      "على الاسوار",
+      "في وجه البنايات",
+      "بالعادة تجاري"
+    ],
+    "notes": "يستخدم بشكل اكبر في الابنية التجارية وقديم نوعا ما"
+  },
+  {
+    "term_local": "مشرح",
+    "term_arabic": "حجر مشرح",
+    "term_category": "finish",
+    "term_standard": "Chiseled Finish",
+    "meaning_simple": "بينعم كفنش لطيف على وجه الحجر عن طريق عمل خطوط عرضية على وجه لحجر ومن ثم كسبة كل الشرحات باستخدام ازميل حتى ينتج شكل يدمج بين العشوائية والخطوط المنتظمة",
+    "scientific_description": "Stone carved using chisel and cutting tools",
+    "synonyms": [
+      "كحزز",
+      "مشرح بالعرض",
+      "مخطط"
+    ],
+    "common_usage": [
+      "الاسوار",
+      "وجه البنايات",
+      "وكثيرا في الساحات الخارجية"
+    ],
+    "notes": "مصنعيته مكلفة وتحتاج لوقت اطول من غيرها ولكن لها شكل جميل جدا ومحبوب من قبل الكثير من الاخاص في السوق"
+  },
+  {
+    "term_local": "زاوية",
+    "term_arabic": "زاوية",
+    "term_category": "structure",
+    "term_standard": "corner stone",
+    "meaning_simple": "حجر يكون اسمك من الاحجار الطبيعية ويكون في زوايا البناء وكانها حجرين يلتقيان بزاوية 90 درجة",
+    "scientific_description": "Stone forming building corner",
+    "synonyms": [
+      "زاوية مزمولة",
+      "فرخة",
+      "عرقة"
+    ],
+    "common_usage": [
+      "في زوايا البناء",
+      "عند التقاء مدماكين بزوايا 90 درجة او اي درجة اخرى",
+      "يمكن بالشبابيك"
+    ],
+    "notes": "سعرها بالعادة بسعر 1 متر مربع من الحجر العادي ولها اشكال مختلفة وكل وجه يمكن ان يكون له نوع فنش مختلف ولها مسميات كثيرة مقل الفرخة والعرفة والرخ"
+  },
+  {
+    "term_local": "دستور",
+    "term_arabic": "دستور",
+    "term_category": "structure",
+    "term_standard": "corner with two faces",
+    "meaning_simple": "يبنى بالعادة على وجه العمود وهو يشبه زاويتين يلتقيان",
+    "scientific_description": "Stone forming building the face of column",
+    "synonyms": [],
+    "common_usage": [
+      "في وجه العمدان",
+      "بين ابواب المخازن",
+      "المناطق القصيرة نسبيا"
+    ],
+    "notes": "الدستور يشبه زاويتين ملتصقات بالعرض وسعره بسعر زاويتين وله اكثر من طريقة فنش لاوجهه الثلاث"
+  },
+  {
+    "term_local": "مدماك",
+    "term_arabic": "مدماك",
+    "term_category": "structure",
+    "term_standard": "Stone Course",
+    "meaning_simple": "هو خط الحجر المرصوص على عرض السور او الواجهة",
+    "scientific_description": "Horizontal layer of masonry stones",
+    "synonyms": [
+      "صف",
+      "شورة",
+      "صف عرضي"
+    ],
+    "common_usage": [
+      "تسلسل الصفوف المرتصة فوق بعضها في البناء"
+    ],
+    "notes": "يتم معرفة كمية التقدم او مساحة الحجر المبني عليه عن طريق ضرب عدد المداميك بنائا على ارتفاع الحجر"
+  },
+  {
+    "term_local": "فرخة",
+    "term_arabic": "فرخة",
+    "term_category": "structure",
+    "term_standard": "corner stone",
+    "meaning_simple": "نوع من انواع الزوايا ولكن تكون قصية وتبنى مع العرقة حتى تنتج نوع من الاختلاف بين زوايا المداميك",
+    "scientific_description": "short Stone forming building corner",
+    "synonyms": [
+      "زاوية قصيرة"
+    ],
+    "common_usage": [
+      "زوايا البنايات",
+      "اطراف المداميك"
+    ],
+    "notes": "عند بنائها يبنى فوقها عرقة لضمان اختلاف اطوال الزوايا"
+  },
+  {
+    "term_local": "عرقة",
+    "term_arabic": "عرقة",
+    "term_category": "structure",
+    "term_standard": "Corner Stone",
+    "meaning_simple": "نوع من انواع الزوايا ويتم بنائه مع الفرخة",
+    "scientific_description": "tall Stone forming building corner",
+    "synonyms": [
+      "زاوية طويلة"
+    ],
+    "common_usage": [
+      "زوايا البنايات",
+      "اطراف المداميك"
+    ],
+    "notes": "تبنى وفوقها او تحتها عرقة لضمان تباين الاطوال في الزوايا"
+  },
+  {
+    "term_local": "تاج",
+    "term_arabic": "تاج",
+    "term_category": "structure",
+    "term_standard": "Capital",
+    "meaning_simple": "الجزء العلوي من الشبابيك او البيبان ويكون له تصميم مميز عن باقي القطع",
+    "scientific_description": "Decorative top of column window or door",
+    "synonyms": [
+      "تاجية",
+      "راس"
+    ],
+    "common_usage": [
+      "القطعة الرئيسية في الشباك",
+      "القطعة الرئيسية في الباب",
+      "رأس العمود"
+    ],
+    "notes": "تكون ثقيلة وتصميمها مختلف او مميز عن القطع الاخرى"
+  },
+  {
+    "term_local": "شربة",
+    "term_arabic": "شربة",
+    "term_category": "structure",
+    "term_standard": "Aesthetic formation",
+    "meaning_simple": "قطعة تركب مع قطع كثيرة مشابهة كدرابزين درج او برندات او سور",
+    "scientific_description": "\"Drip Groove / Drip Edge",
+    "synonyms": [
+      "خط تقطير",
+      "درابزين"
+    ],
+    "common_usage": [
+      "نفس استخدام الدرابزين في الدرج او البرندات او الاسوار"
+    ],
+    "notes": "تركب بكميات على امتداد المنطقة المراد تركيبها فيها"
+  },
+  {
+    "term_local": "شربة ام",
+    "term_arabic": "اماية",
+    "term_category": "structure",
+    "term_standard": "Aesthetic formation",
+    "meaning_simple": "عند زوايا امتداد خط الشربات او بين كل عدد معين منهم",
+    "scientific_description": "main Drip Groove / main Drip Edge",
+    "synonyms": [
+      "اماية",
+      "راسية",
+      "شربة كبيرة"
+    ],
+    "common_usage": [
+      "القطعة الكبيرة في الشربات وتعطيهم لمسة جمالية وقوة في الثبات"
+    ],
+    "notes": "سعرها اغلى ولكن لها فوائد كبيرة كجمال او ثبات"
+  },
+  {
+    "term_local": "حف",
+    "term_arabic": "حف الحجر",
+    "term_category": "finish",
+    "term_standard": "Grinding",
+    "meaning_simple": "تنعيم وجه الحجر وازالة النتوء الصغيرة",
+    "scientific_description": "Abrasive process to smooth stone surface",
+    "synonyms": [
+      "حف",
+      "تلميع",
+      "مسح"
+    ],
+    "common_usage": [
+      "لجعل وجه الحجر املس",
+      "ازالة النتوء الصغيرة",
+      "تجميل وجه الحجر"
+    ],
+    "notes": "الحجر بعد القص مباشرة يحتاج الى حف بسيط لوجه الحجر لازالة اثار القص الصغيرة"
+  },
+  {
+    "term_local": "جلي",
+    "term_arabic": "جلي الحجر",
+    "term_category": "finish",
+    "term_standard": "Polishing",
+    "meaning_simple": "جعل وجه الحجر ناعم جدا اضافة الى اصلاح بعض الحفر",
+    "scientific_description": "Process of smoothing stone using abrasives",
+    "synonyms": [
+      "جلي",
+      "تنعيم",
+      "مسح",
+      "برشت",
+      "جلي مي",
+      "جلي وراق",
+      "جلي ملح"
+    ],
+    "common_usage": [
+      "الديكو",
+      "تلبيس الاسوار",
+      "تلبيس الواجهات",
+      "تنعيم القطع"
+    ],
+    "notes": "يجعل وجه الحجر ناعم جدا ويصلح بعض المشاكل الطبيعية بالحجر"
+  },
+  {
+    "term_local": "شرشبة",
+    "term_arabic": "شرشبة الحجر",
+    "term_category": "defect",
+    "term_standard": "Fractures of the limbs",
+    "meaning_simple": "هي الكسور الصغير على الاطراف في الاحجار وتعيب بشكل الحجر",
+    "scientific_description": "limb fractures",
+    "synonyms": [
+      "كسور",
+      "قحط",
+      "فتفتة"
+    ],
+    "common_usage": [],
+    "notes": "غير جيدة لوجه الحجر ومن الصعب علاجها وتحدث اثناء تحريك القطعة بشكل حاطئ"
+  },
+  {
+    "term_local": "شلع",
+    "term_arabic": "حجر مشلوع",
+    "term_category": "defect",
+    "term_standard": "Cut at the corner end",
+    "meaning_simple": "كسور في زوايا الحجر",
+    "scientific_description": "Broken edge of stone piece",
+    "synonyms": [
+      "كسي",
+      "مشلوع",
+      "مطبوش"
+    ],
+    "common_usage": [],
+    "notes": "يتم رفض الحجر المشلوع ولا يقبل للبناء"
+  },
+  {
+    "term_local": "رصة",
+    "term_arabic": "رصة مشتاح",
+    "term_category": "procesس",
+    "term_standard": "Stone Stacking",
+    "meaning_simple": "هي طبقة من طبقات المشتاح",
+    "scientific_description": "Arrangement of stones in stack",
+    "synonyms": [
+      "طبقة المشتاح"
+    ],
+    "common_usage": [
+      "طبقات المشتاح للعد وحصر كمية الحجر على المشتاح بسهولة"
+    ],
+    "notes": "مهمة لمعرفة كمية الحجر على المشتاح"
+  },
+  {
+    "term_local": "كوب",
+    "term_arabic": "كوب حجر",
+    "term_category": "measurement",
+    "term_standard": "Cubic Estimating the cubic quantityBlock",
+    "meaning_simple": "لتقدير الكمية بالمتر المربع",
+    "scientific_description": "Stone block measured volumetrically",
+    "synonyms": [
+      "كمية مكعبة",
+      "كم متر مكعب"
+    ],
+    "common_usage": [
+      "لتقدير الكميات اللتي يصعب تقديرها بالطول والعرض فقط"
+    ],
+    "notes": "تستخد بالعادة للقطع غير منتظمة الشكل او العمدان لمعرفة كميتها"
+  },
+  {
+    "term_local": "عمود",
+    "term_arabic": "عمدان حجر",
+    "term_category": "structure",
+    "term_standard": "Column",
+    "meaning_simple": "قطعة كبيرة الحجم تضيف ميزة جمالية واسناد للمبنى",
+    "scientific_description": "Vertical load-bearing stone element",
+    "synonyms": [
+      "عمدان",
+      "سندات"
+    ],
+    "common_usage": [
+      "لاضافة جمال للبيوت والقصور الكبيرة واسناد الثقل فوقها"
+    ],
+    "notes": "سعرها غالي لصعوبة العمل عليها وتكلفة الانتاج"
+  },
+  {
+    "term_local": "عصافير",
+    "term_arabic": "عصفورة حجر",
+    "term_category": "structure",
+    "term_standard": "Small Anchor Stones",
+    "meaning_simple": "قطع صغيرة مشكلة ولها الكثير من الاشكال تضاف بالاغلب على اعلى المباني او تحت الشبابيك",
+    "scientific_description": "Small stones used to stabilize masonry",
+    "synonyms": [
+      "عصفورة",
+      "شقفة صغيرة",
+      "عصافير"
+    ],
+    "common_usage": [
+      "تحت الشبابيك",
+      "اعلى المباني",
+      "اماكن عالية",
+      "تجميل المنظر"
+    ],
+    "notes": "جميلة وتعطي لمسة فنية رائعة للمبنى"
+  },
+  {
+    "term_local": "مقادم",
+    "term_arabic": "مقادم حجر",
+    "term_category": "structure",
+    "term_standard": "Front Edge Stone",
+    "meaning_simple": "قطع حجرية صغيرة ترتب فوق بعضها وتستخد في الديكور الداخلي مع الاضواء المخفية",
+    "scientific_description": "Stone, as small pieces, forms the structure in interior decoration.",
+    "synonyms": [
+      "مقدميات",
+      "مقادم",
+      "قطع صغيرة داخلية"
+    ],
+    "common_usage": [
+      "للديكزر الداخلي",
+      "مع الاضواء المخفية"
+    ],
+    "notes": "جميلة جدا كاضافة داحلية"
+  },
+  {
+    "term_local": "فانوس",
+    "term_arabic": "فانوس حجري",
+    "term_category": "structure",
+    "term_standard": "decorative formation",
+    "meaning_simple": "فانوس مضيء ولكن مصنوع بالحجر والزجاج وله الوان مختلفة",
+    "scientific_description": "Recessed decorative architectural element",
+    "synonyms": [
+      "فوانيس",
+      "ضواو"
+    ],
+    "common_usage": [
+      "على الاسوار الخارجية",
+      "مناطق الاضائة الخارجية"
+    ],
+    "notes": "تشكيلها الزخرفي الجميل يضيف لمسة جمالية للمكان"
+  },
+  {
+    "term_local": "قاعدة",
+    "term_arabic": "قاعدة عمود",
+    "term_category": "structure",
+    "term_standard": "base column stone",
+    "meaning_simple": "قاعدة مزخرفة للعمود",
+    "scientific_description": "Supporting base of column or structure",
+    "synonyms": [
+      "قاعدة العمود",
+      "ارضية العمود",
+      "ركزة العمود"
+    ],
+    "common_usage": [
+      "قاعدة اساسبة للعمود",
+      "زيادة جمال العمود"
+    ],
+    "notes": "مهمة جدا للعمدان للتثبيت وتضيف جمال لها"
+  },
+  {
+    "term_local": "مراية",
+    "term_arabic": "مراية الدرج",
+    "term_category": "structure",
+    "term_standard": "A piece for the distance between the step and the one above it",
+    "meaning_simple": "القطعة في المسافة بين الدرجة واللتي فوقها وتون في الجهة الظاهرة",
+    "scientific_description": "Highly polished reflective surface",
+    "synonyms": [
+      "مراي",
+      "مري",
+      "رايزر"
+    ],
+    "common_usage": [
+      "مسافة الارتفاع بين الدرجة والدرجة الاخرى"
+    ],
+    "notes": "تكون من نفس نوعية وفنش الدرج"
+  },
+  {
+    "term_local": "بنيل",
+    "term_arabic": "بنيل البلاط",
+    "term_category": "structure",
+    "term_standard": "Stone panel",
+    "meaning_simple": "قطع تركب على اطراف الارضية فوق البلاط وملتصقة بالجدار",
+    "scientific_description": "Flat stone panel for cladding",
+    "synonyms": [
+      "بنيلات",
+      "طراف الارضية"
+    ],
+    "common_usage": [
+      "على اطراف ارضيات البلاط وتلصق بالحائط"
+    ],
+    "notes": "تحمي الارض من تسرب الماء في الزوايا بين الجدار والارض"
+  },
+  {
+    "term_local": "كرنيش",
+    "term_arabic": "كرانيش",
+    "term_category": "structure",
+    "term_standard": "Cornice",
+    "meaning_simple": "قطع حجرية مزخرفة توضع على الاطراف العالية في البناء",
+    "scientific_description": "Projecting decorative molding",
+    "synonyms": [
+      "كرانيش",
+      "كرنيشات"
+    ],
+    "common_usage": [
+      "ديكور خارجي للمناطق العالية في مبنى"
+    ],
+    "notes": "زخارف جميلة تمنح المبنى شكل خارجي جميل"
+  },
+  {
+    "term_local": "جلاية",
+    "term_arabic": "جلاية حجر",
+    "term_category": "tool",
+    "term_standard": "Stone Polishing Machine",
+    "meaning_simple": "ماكينة تقوم بجلي وجه الحجر واصلاح بعض المشاكل فيه",
+    "scientific_description": "Machine used to polish stone",
+    "synonyms": [
+      "جلاية",
+      "مجلاية"
+    ],
+    "common_usage": [
+      "جعل وجه الحجر مجلي"
+    ],
+    "notes": "ماكينة غالية الثمن لانتاج الحجر المجلي"
+  },
+  {
+    "term_local": "على زراق",
+    "term_arabic": "حجر ازرق",
+    "term_category": "property",
+    "term_standard": "Blue Limestone",
+    "meaning_simple": "Limestone with a blue or dark color",
+    "scientific_description": "\"A visual color characteristic of natural stone where the surface exhibits a bluish or bluish-gray tint due to mineral composition, lighting conditions, or moisture content in the stone",
+    "synonyms": [
+      "ازرق",
+      "غامق",
+      "على زراق",
+      "فيه زراق"
+    ],
+    "common_usage": [],
+    "notes": "لونه المميز المائل للازرقاق والغمقة"
+  },
+  {
+    "term_local": "على بياض",
+    "term_arabic": "حجر ابيض",
+    "term_category": "property",
+    "term_standard": "White Limestone",
+    "meaning_simple": "حجر يتميز بلونه المائل للبياض",
+    "scientific_description": "Light colored limestone",
+    "synonyms": [
+      "ابيض",
+      "على بياض",
+      "فاتح"
+    ],
+    "common_usage": [],
+    "notes": ""
+  },
+  {
+    "term_local": "على صفار",
+    "term_arabic": "حجر اصفر",
+    "term_category": "property",
+    "term_standard": "Yellow Limestone",
+    "meaning_simple": "حجر لونه مائل للاصفرار",
+    "scientific_description": "Yellowish limestone variety",
+    "synonyms": [
+      "مصفر",
+      "اصفر",
+      "مصفر"
+    ],
+    "common_usage": [],
+    "notes": ""
+  },
+  {
+    "term_local": "طري",
+    "term_arabic": "حجر طري",
+    "term_category": "property",
+    "term_standard": "Soft Stone",
+    "meaning_simple": "هو حجر يكون طري نسبيا مع الاحجار الاخرى ويتاثر بالعوامل الخارجية بشكل اكبر",
+    "scientific_description": "Stone with low hardness",
+    "synonyms": [
+      "طري",
+      "خفيف",
+      "مش قاسي"
+    ],
+    "common_usage": [
+      "بشكل اكبر في تشكيل الحجر",
+      "الديكور"
+    ],
+    "notes": "يتاثر بسرعة في العوامل الخارجية كالبلل وتغير اللون فيستخدم داخليا وسعره ارخص"
+  },
+  {
+    "term_local": "قاسي",
+    "term_arabic": "حجر قاسي",
+    "term_category": "property",
+    "term_standard": "Hard Stone",
+    "meaning_simple": "حجر قاسي ولا يتاثر بالعوامل الخارجية بسهولة",
+    "scientific_description": "Stone with high compressive strength",
+    "synonyms": [
+      "قاسي",
+      "ناشف",
+      "قوي",
+      "ثقيل"
+    ],
+    "common_usage": [
+      "في المواقع اللتي تتعرض للعوامل الخارجية",
+      "مكان التعرض للماء",
+      "الاعمدة والقطع الكبيرة"
+    ],
+    "notes": "لا يتعرض للكسر وتغير اللون بسهولة"
+  },
+  {
+    "term_local": "بشرب مي",
+    "term_arabic": "حجر بشرب مي بنسبة كبيرة",
+    "term_category": "property",
+    "term_standard": "Water Absorption",
+    "meaning_simple": "نسبة امتصاصه للماء مبير وهذه الخاصية تؤثر بالحجر بشكل سلبي",
+    "scientific_description": "Ability of stone to absorb water",
+    "synonyms": [
+      "بمتص مي",
+      "بشرب",
+      "طري"
+    ],
+    "common_usage": [],
+    "notes": "تكون هذه الخاصية بالحجر الطري بالعادة"
+  },
+  {
+    "term_local": "حل",
+    "term_arabic": "حل الحجر",
+    "term_category": "property",
+    "term_standard": "Grain Direction",
+    "meaning_simple": "فاصل رملي بين طبقات الحجر",
+    "scientific_description": "Natural bedding orientation of stone",
+    "synonyms": [
+      "حل",
+      "شق",
+      "قطع طبيعي"
+    ],
+    "common_usage": [],
+    "notes": "يضعف قطعة الحجر اذا كان في منتصفها او بشكل عام ويتم تجنبه اذا كان كبير  ولكنه ليس دائما مؤذي"
+  },
+  {
+    "term_local": "كمخة",
+    "term_arabic": "كمخة الحجر",
+    "term_category": "defect",
+    "term_standard": "Internal Weakness",
+    "meaning_simple": "هي عندما يظهر حل الحجر على وجهه وتوثر في جمال وتقييم الحجر",
+    "scientific_description": "Hidden weak zone inside stone",
+    "synonyms": [
+      "كمخة",
+      "وساخة الحجر",
+      "مش نضيف",
+      "قشرة داخلية"
+    ],
+    "common_usage": [],
+    "notes": "تؤثر في جمال وسعر الحجر"
+  },
+  {
+    "term_local": "كحلة",
+    "term_arabic": "حجر مكحل",
+    "term_category": "process",
+    "term_standard": "Cleaning the stone face after construction",
+    "meaning_simple": "تنظيف وجه الحجر بعد البناء وازالة العوالق",
+    "scientific_description": "Filling masonry joints with mortar",
+    "synonyms": [
+      "تكحيل",
+      "مكحل",
+      "كحلة"
+    ],
+    "common_usage": [
+      "بعد الانتهاء من بناء الحجر"
+    ],
+    "notes": "مفيدة جدا بعد البناء وضرورية لاعطاء جمال للمبنى"
+  },
+  {
+    "term_local": "usage",
+    "term_arabic": "",
+    "term_category": "",
+    "term_standard": "",
+    "meaning_simple": "",
+    "scientific_description": "",
+    "synonyms": [],
+    "common_usage": [],
+    "notes": ""
+  },
+  {
+    "term_local": "ستوكات",
+    "term_arabic": "حجر ستوك",
+    "term_category": "usage",
+    "term_standard": "Stock Stone",
+    "meaning_simple": "حجر عشوائي النوع مجمع وسعره رخيص",
+    "scientific_description": "Stone stored for later use",
+    "synonyms": [
+      "ستوكات",
+      "حجار ستوك",
+      "حجار مش نضيفة"
+    ],
+    "common_usage": [
+      "مناطق غير مرئية كثيرا",
+      "مناطق غير مهتمة بالجمال كثيرا"
+    ],
+    "notes": "رخيص السعر وغير متناسق في نوع الصخر المستخدم منه"
+  },
+  {
+    "term_local": "فيبر",
+    "term_arabic": "دسك",
+    "term_category": "tool",
+    "term_standard": "Diamond Cutting Disc",
+    "meaning_simple": "قرص دائري يركب على الصاروخ المحمول ويستخدم لقص الحجر والبلاط والخرسانة.",
+    "scientific_description": "\"A circular cutting blade typically reinforced with diamond particles, mounted on a handheld angle grinder or cutter, used for cutting stone, concrete, and masonry materials.",
+    "synonyms": [
+      "دسك",
+      "فيبر",
+      "صاروخ",
+      "مقص الماسي محمول"
+    ],
+    "common_usage": [
+      "لتشكيل الحجر",
+      "حف الحجر",
+      "تنظيف الحجر"
+    ],
+    "notes": "مهم جدا في مناشير الحجر"
+  },
+  {
+    "term_local": "حجر اية",
+    "term_arabic": "حجر محفور عليه اية او نص",
+    "term_category": "architecture",
+    "term_standard": "Inscribed Stone Plaque",
+    "meaning_simple": "حجر يتم نقش آية قرآنية أو نص مهم عليه ويُثبت على المباني أو في أماكن بارزة لأغراض دينية أو تذكارية",
+    "scientific_description": "A carved or engraved stone plaque bearing a Quranic verse or significant inscription, typically installed on building facades, entrances, or public landmarks for commemorative, religious, or symbolic purposes",
+    "synonyms": [
+      "حجر منقوش",
+      "لوح حجري منقوش",
+      "اية",
+      "حجر اية"
+    ],
+    "common_usage": [
+      "مداخل المساجد",
+      "واجهات مباني او معالم",
+      "معالم تذكارية",
+      "الساحات العامة"
+    ],
+    "notes": "يُستخدم هذا الحجر غالباً لعرض آيات قرآنية أو نصوص تأسيسية مثل تاريخ بناء المبنى أو اسم المنشئ. يتم نحته أو حفر النص عليه يدوياً أو باستخدام آلات نقش خاصة."
+  },
+  {
+    "term_local": "برطاش",
+    "term_arabic": "برطاشة",
+    "term_category": "finish",
+    "term_standard": "A smooth stone placed on the top of the wall or window",
+    "meaning_simple": "حجر املس او مجلي يوضع على سطح السور او على وجه الشبابيك الاسفل",
+    "scientific_description": "Stone surface as a cover",
+    "synonyms": [
+      "براطيش",
+      "برطاشة",
+      "غطى"
+    ],
+    "common_usage": [
+      "سطح الاسوار العلوي",
+      "ارضية الشبابيك كغطاء",
+      "سقفية الشبابيك"
+    ],
+    "notes": "بالعادة تكون محفوفة او مجلية"
+  },
+  {
+    "term_local": "صول",
+    "term_arabic": "صةل الحجر",
+    "term_category": "byproduct",
+    "term_standard": "Stone Slurry",
+    "meaning_simple": "مادة سائلة كثيفة تنتج عند اختلاط ماء القص مع غبار الحجر أثناء عملية قص الحجر في المناشير",
+    "scientific_description": "A dense slurry composed of water mixed with fine stone particles generated during wet cutting processes in stone saw machines. This slurry accumulates as a viscous byproduct and is typically collected or disposed of through sedimentation systems",
+    "synonyms": [
+      "طين الحجر",
+      "صول",
+      "مخلفات قص",
+      "slurry"
+    ],
+    "common_usage": [
+      "يتم التخلص منه"
+    ],
+    "notes": "تم الكثير من الابحاث للاستفادة منها ولكنهم يتخلصون منها لعدم فائدتها"
+  },
+  {
+    "term_local": "زر",
+    "term_arabic": "صخرة زر",
+    "term_category": "raw_material",
+    "term_standard": "Round Stone / Boulder",
+    "meaning_simple": "صخرة كبيرة تقريباً دائرية الشكل ويصعب تثبيتها على الماكنات والتعامل معها أثناء القطع",
+    "scientific_description": "\"A naturally rounded or circular stone boulder whose geometry makes it challenging to secure on stone cutting machinery, requiring special handling equipment or positioning for processing",
+    "synonyms": [
+      "صخرة دائرية"
+    ],
+    "common_usage": [
+      "تقطيع الحجر في المناشير"
+    ],
+    "notes": "يعتبر الزر من اصعب اشكال الصخور في التعامل مع تقطيعها وقصها"
+  },
+  {
+    "term_local": "وساع",
+    "term_arabic": "صخر وساع",
+    "term_category": "raw_material",
+    "term_standard": "Large Boulder / Massive Rock",
+    "meaning_simple": "صخرة كبيرة جداً وضخمة، أكبر بكثير من الزر، وغالباً تحتاج معدات خاصة لنقلها وتثبيتها على الماكينات.",
+    "scientific_description": "A very large and massive natural stone boulder, often irregular in shape, requiring heavy machinery for transportation, handling, and cutting in quarry or processing operations.",
+    "synonyms": [
+      "صخرة ضخمة",
+      "صخرة كبيرة"
+    ],
+    "common_usage": [
+      "الصخر الوساع يمثل أكبر أحجام الصخور في المقالع، وغالباً لا يمكن التعامل معه إلا باستخدام رافعات أو معدات نقل ثقيلة. يُستخدم عادة لتقطيع كتل حجرية كبيرة قبل تقسيمها لقطع أصغر قابلة للاستخدام"
+    ],
+    "notes": ""
+  },
+  {
+    "term_local": "مربوعة",
+    "term_arabic": "مرابيع",
+    "term_category": "structure",
+    "term_standard": "Cubed Stone / Block",
+    "meaning_simple": "قطعة حجر يتم قصها عادة على شكل مكعب بأبعاد متساوية تقريباً، غالباً 25×25×25 سم.",
+    "scientific_description": "A stone block cut into a cubic shape, commonly used in construction or paving. Standard dimensions are approximately 25 cm per side, but may vary depending on project requirements",
+    "synonyms": [
+      "مربوع",
+      "مكعب"
+    ],
+    "common_usage": [
+      "الرصف",
+      "ديكور خارجي",
+      "يتم تشكيلها لاحقا",
+      "مقاعد"
+    ],
+    "notes": "قطعة يجب ان تكون ابعادها الثلاثة متساوية وهي ثقيلة نسبيا"
+  },
+  {
+    "term_local": "تربيع",
+    "term_arabic": "تربيع الحجر",
+    "term_category": "stone_processing",
+    "term_standard": "Squaring / Corner Alignment",
+    "meaning_simple": "عملية تعديل زوايا الحجر الأربع لتصبح قائمة (90°)، دون أن يعني أن الحجر يجب أن يكون مربع الشكل، فقد يكون مستطيلاً",
+    "scientific_description": "The process of adjusting the four corners of a stone block to achieve right angles (90°), ensuring proper alignment for construction purposes. The stone may retain rectangular or irregular shapes in plan while having squared corners",
+    "synonyms": [
+      "ازالة الجزء لمكسور",
+      "تربيع",
+      "تقطيع"
+    ],
+    "common_usage": [
+      "في المناشير",
+      "اصلاح الحجر المكسور في الورشة بازالة الجزء المكسور"
+    ],
+    "notes": "هناك بعض الكسور بالحجر لا يمكن معالجتها حتى بالتربيع"
+  },
+  {
+    "term_local": "نمش",
+    "term_arabic": "نمش الحجر",
+    "term_category": "stone_feature",
+    "term_standard": "Natural Red Specks / Stone Freckles",
+    "meaning_simple": "نقاط حمراء عشوائية تظهر على الحجر الطبيعي، وتعتبر ميزة جمالية طبيعية فيه.",
+    "scientific_description": "Randomly distributed red spots or specks occurring naturally on stone surfaces, typically caused by mineral inclusions such as iron oxides. These features are valued for aesthetic variation in architectural and decorative stone.",
+    "synonyms": [
+      "نقط حمراء",
+      "شبكات حمراء"
+    ],
+    "common_usage": [],
+    "notes": "النمش يعتبر ميزة جمالية طبيعية للحجر ممكن ان تتحكم في قيمته في السوق وتستخدم احيانا كعامل لتحديد نوع الحجر وتمييزه"
+  },
+  {
+    "term_local": "لطعة",
+    "term_arabic": "لطعة بالحجر",
+    "term_category": "stone_feature",
+    "term_standard": "Color Patch / Stone Spot",
+    "meaning_simple": "منطقة على وجه الحجر يختلف لونها عن لون الحجر الأصلي، وتختلف بالحجم واللون من حجر لآخر، وتعتبر ميزة طبيعية للتعرف على نوع الحجر.",
+    "scientific_description": "A naturally occurring patch or area on a stone surface with a color distinct from the main body of the stone, varying in size and hue depending on the mineral composition. It is often used as an identifier of the stone type and adds aesthetic value.",
+    "synonyms": [
+      "بقعة حجرية",
+      "تصبغ حجري طبيعي",
+      "علامة على الحجر"
+    ],
+    "common_usage": [
+      "تمييز نوع الحجر بالعادة",
+      "ميزة جمالية للحجر"
+    ],
+    "notes": "لطعة الحجر تعتبر من العلامات الطبيعية التي تساعد في التعرف على جودة ونوع الحجر، وغالباً ما يُنظر إليها كميزة جمالية تزيد من قيمة الحجر في السوق."
+  },
+  {
+    "term_local": "صدفة",
+    "term_arabic": "صدفة بالحجر",
+    "term_category": "stone_feature",
+    "term_standard": "Natural Shell / Fossil-like Inclusion",
+    "meaning_simple": "تجمع ملحي طبيعي في الحجر يشبه شكل الصدفة، ويظهر بشكل طبيعي على وجه الحجر",
+    "scientific_description": "A naturally occurring shell-shaped inclusion or salt deposit within the stone, often resembling a shell or fossil on the stone surface. Such features result from mineral crystallization or fossil remnants embedded during stone formation",
+    "synonyms": [
+      "شكل صدفي",
+      "تشبه الاحفورة",
+      "تجمع ملحي"
+    ],
+    "common_usage": [],
+    "notes": "الصدفة تُعد ميزة طبيعية تمنح الحجر طابعاً فريداً وتُستخدم أحياناً لتقييم نوعية الحجر أو تمييزه عن الأحجار الأخرى."
+  },
+  {
+    "term_local": "مع الحل",
+    "term_arabic": "قص مع الحل",
+    "term_category": "process",
+    "term_standard": "With the Grain / Bedding Plane Cut",
+    "meaning_simple": "قطع الصخرة بنفس اتجاه الفواصل الطبيعية بين طبقاتها المتكونة عبر الزمن الجيولوجي",
+    "scientific_description": "Cutting stone along the natural bedding planes — the layered boundaries formed over geological time — resulting in smoother cuts that follow the stone's internal structure",
+    "synonyms": [
+      "قطع مع الحل",
+      "قص مع الحل",
+      "مع الخط",
+      "قص مع الخط"
+    ],
+    "common_usage": [
+      "افضل لتماسك الحجر",
+      "تغيير نقوش الحجر"
+    ],
+    "notes": "في اغلب الاحيان يتم القص مع الحل ولكن الفرق بينها وبين القص عكس الحل ههو ان النقوش الطبيعية في الحجر يختلف ترتيبها ومن الممكن اختلاف في اللون الاساسي للحجر"
+  },
+  {
+    "term_local": "عكس الحل",
+    "term_arabic": "القطع عكس التحبب / القطع عكس الطبقات",
+    "term_category": "process",
+    "term_standard": "Against the Grain / Cross-Bedding Cut",
+    "meaning_simple": "قطع الصخرة باتجاه عمودي على اتجاه الفواصل الطبيعية بين الطبقات المتكونة في الصخر عبر الزمن",
+    "scientific_description": "Cutting stone against the natural bedding planes — perpendicular or at an angle to the layered boundaries formed over geological time — resulting in a harder cut that crosses the stone's internal structure.",
+    "synonyms": [
+      "عكس القطع",
+      "عكس الحلول",
+      "عكس الفاصل"
+    ],
+    "common_usage": [
+      "اختلاف النقوش الطبيعية في الصخرة",
+      "من الممكن اختلاف اللون الطبيعي للحجر"
+    ],
+    "notes": "القطع عكس الحل يعطي شكلا مختلفا لميزات الحجر اداخلية ومن الممكن القيام بهذه العملية بسبب لزومها لنوع معين من الصخر"
+  },
+  {
+    "term_local": "قشرة",
+    "term_arabic": "حجر قشرة",
+    "term_category": "product",
+    "term_standard": "Stone Crust / Natural Face Slab",
+    "meaning_simple": "الوجه الخارجي الطبيعي للصخرة الذي يظهر عند قص الألواح الحجرية، يتميز بشكل وتشكيل فريد يختلف عن باقي الألواح المقصوصة",
+    "scientific_description": "The outer natural surface of a stone block exposed during the sawing process on cutting machinery. These outer slabs retain the original weathered or natural texture of the stone's exterior, giving them a unique and aesthetically distinctive appearance compared to internally cut slabs",
+    "synonyms": [
+      "الوجه الخارجي للصخرة",
+      "حجر قشرة",
+      "وجه طبيعي",
+      "قشرة الحجر"
+    ],
+    "common_usage": [
+      "في الديكور",
+      "في الاسوار والبناء الخارجي",
+      "في التصميم الداخلي",
+      "يعطي شكل طبيعي وفريد",
+      "عدم انتظامه يعطي شكل جميل للمكان"
+    ],
+    "notes": "سعره ارخص من الحجر العادي ويتم تجميعه من اكثر من صخرة وله استخدامات عديدة في الديكور والبناء"
+  },
+  {
+    "term_local": "منجل",
+    "term_arabic": "منشار الحجر / ماكنة التقطيع",
+    "term_category": "tool",
+    "term_standard": "Stone Cutting Machine / Gang Saw",
+    "meaning_simple": "ماكنة كبيرة تُستخدم لقص الصخرة وتقطيعها إلى ألواح حجرية جاهزة للمرحلة التالية من التشغيل كالنقش أو التفنيش",
+    "scientific_description": "A large industrial stone cutting machine used to saw raw stone blocks into uniform slabs or finished stone pieces. The machine operates by passing the stone block through rotating saw blades, producing pieces ready for subsequent processing stages such as engraving or finishing",
+    "synonyms": [
+      "منشار حجر",
+      "ماكنة تقطيع",
+      "مكينة قص",
+      "منجل سلمي"
+    ],
+    "common_usage": [
+      "قص الصخر الخام الى الواح",
+      "تقطيع الحجر لابعاد متعددة محددة",
+      "انتاج الحجر الطبيعي المقصوص"
+    ],
+    "notes": "المنجل هو المرحلة الأولى في تشغيل الحجر الخام داخل المحجر أو الورشة، وحجم الماكنة وعدد شفراتها يحدد سماكة الألواح الناتجة ودقة القطع"
+  },
+  {
+    "term_local": "نصلة",
+    "term_arabic": "قرص القطع / شفرة الحجر",
+    "term_category": "tool",
+    "term_standard": "Diamond Blade / Cutting Disc",
+    "meaning_simple": "قطعة معدنية دائرية الشكل تُركَّب على المنجل ومقصات الحجر، أطرافها مزودة بأسنان من الماس تقوم بقص الحجر عند دورانها بسرعات عالية",
+    "scientific_description": "A circular metal disc fitted with diamond-tipped segments along its outer edge, mounted on stone cutting machines such as gang saws and stone cutters. The diamond segments abrade and cut through stone material when the blade rotates at high speeds, making it suitable for cutting hard stone materials",
+    "synonyms": [
+      "قرص الماس",
+      "شفرة القطع",
+      "قرص القطع الماسي",
+      "شفرة"
+    ],
+    "common_usage": [
+      "تركب على المنجل لقص الالواح",
+      "تركب على مقصات الحجر اليدوية والثابتة",
+      "قطع الحجر بابعاد دقيقة",
+      "استبدالها عند تاكل الالماس"
+    ],
+    "notes": "جودة النصلة وعدد أسنان الماس فيها تؤثر مباشرة على نعومة القطع وسرعته، وتتآكل الأسنان تدريجياً مع الاستخدام مما يستوجب استبدالها بانتظام للحفاظ على جودة القطع اضافة الى سعرها العالي"
+  },
+  {
+    "term_local": "تلبيس",
+    "term_arabic": "تكسية الواجهة بالحجر",
+    "term_category": "construction",
+    "term_standard": "Stone Cladding / Stone Veneering",
+    "meaning_simple": "تركيب الحجر على الواجهة بعد الانتهاء من بنائها وليس أثناءها، ويستلزم استخدام حجر رفيع السماكة بعكس حجر البناء العادي",
+    "scientific_description": "A construction technique in which thin stone slabs are applied to an already-built facade as a decorative and protective layer, rather than being integrated during the original construction process. Unlike structural stone laying, cladding requires thinner stone pieces fixed to the surface using adhesives or mechanical fixings",
+    "synonyms": [
+      "تكسية",
+      "لبس",
+      "بناء",
+      "بناء حجر على واجهة مبنية من قبل"
+    ],
+    "common_usage": [
+      "تكسية واجهات المباني بعد اكتمال البناء",
+      "تجديد واجهات المباني القديمة",
+      "تغطية الأعمدة والأسطح الخرسانية بالحجر"
+    ],
+    "notes": "التلبيس يختلف جوهرياً عن البناء بالحجر التقليدي، إذ لا يتحمل أحمالاً إنشائية بل يؤدي وظيفة جمالية وحمائية فقط، لذلك يُستخدم فيه حجر رفيع السماكة عادةً بين 2-4 سم لتقليل الوزن وتسهيل التركيب"
+  },
+  {
+    "term_local": "حجر بنى",
+    "term_arabic": "حجر البناء الهيكلي",
+    "term_category": "construction",
+    "term_standard": "Structural Stone / Load-Bearing Stone",
+    "meaning_simple": "حجر سميك يُستخدم أثناء عملية البناء وليس بعدها، يكون جزءاً أساسياً من الهيكل الإنشائي للجدار بعكس حجر التلبيس الرفيع",
+    "scientific_description": "A thick stone unit incorporated into the wall structure during the construction process, serving as a load-bearing element. Unlike cladding stone, structural stone is integrated within the wall core and contributes to the overall structural integrity of the building",
+    "synonyms": [
+      "حجر بنى",
+      "حجر هيكلي",
+      "حجر انشائي"
+    ],
+    "common_usage": [
+      "بناء الجدران الخارجية والداخلية",
+      "تشييد الأسوار والحوائط الحجرية",
+      "الأساسات والجدران الحاملة"
+    ],
+    "notes": "حجر البنى يكون سماكته أكبر بكثير من حجر التلبيس، وعادةً لا تقل عن 5 سم، ويتحمل أحمالاً إنشائية حقيقية كونه جزءاً من صلب الجدار وليس طبقة خارجية فوقه"
+  },
+  {
+    "term_local": "قص بالاجرة",
+    "term_arabic": "قص الحجر بالأجرة / تشغيل بالأجرة",
+    "term_category": "business_model",
+    "term_standard": "Contract Cutting / Toll Processing",
+    "meaning_simple": "نموذج عمل يشتري فيه الزبون الصخر الخام مباشرة من المحجر، ويدفع لصاحب المنشار أجرة مقابل قصه وتشغيله فقط دون شراء المادة",
+    "scientific_description": "A stone processing business model in which the client independently purchases raw stone from a quarry and then contracts a sawmill or cutting facility to process it for a service fee. The cutting facility provides only the labor and machinery, while ownership of the raw and processed material remains with the client throughout",
+    "synonyms": [
+      "تشغيل بالاجرة",
+      "قص بالخدمة",
+      "شغل بالاجرة"
+    ],
+    "common_usage": [
+      "عندما يرغب الزبون بالتحكم بمصدر الحجر الخام",
+      "تخفيض تكلفة المواد بشراء الصخر مباشرة من المحجر"
+    ],
+    "notes": "القص بالأجرة شائع في فلسطين ويتيح للزبون مرونة أكبر في اختيار نوع الصخر ومصدره، بينما يستفيد صاحب المنشار من دخل ثابت دون الحاجة لشراء الصخر الخام أو تخزينه"
+  },
+  {
+    "term_local": "تشريك",
+    "term_arabic": "فضلات الحجر / الزوائد غير المستخدمة",
+    "term_category": "stone_waste",
+    "term_standard": "Stone Off-cuts / Unusable Stone Remnants",
+    "meaning_simple": "قطع حجرية زائدة ناتجة عن عملية القص، لا يمكن استخدامها بسبب عدم مناسبة أبعادها أو لأنها لا تنسجم مع متطلبات الطلبية المحددة",
+    "scientific_description": "Residual stone pieces resulting from the cutting process that cannot be utilized in a specific order due to unsuitable dimensions or incompatibility with the required specifications. These off-cuts accumulate as a byproduct of production and may be sold separately, repurposed, or discarded depending on their size and quality",
+    "synonyms": [
+      "فضلات القص",
+      "زوائد الحجر",
+      "بقايا التقطيع",
+      "قصاصات الحجر"
+    ],
+    "common_usage": [
+      "بيعها بأسعار منخفضة كمواد ثانوية",
+      "استخدامها في أعمال الردم أو التسوية",
+      "إعادة تشغيل بعضها إذا كان حجمها مناسباً",
+      "استخدامها في تبليط الممرات غير الرسمية"
+    ],
+    "notes": "التشريك يمثل تحدياً اقتصادياً لأصحاب المناشير إذ يشكل نسبة من الإنتاج غير القابل للبيع بسعر كامل، وتتفاوت كميته بحسب طبيعة الطلبيات وأبعادها، وكلما كانت الطلبية بأبعاد موحدة كلما قل التشريك"
+  },
+  {
+    "term_local": "كيلة",
+    "term_arabic": "قياس كمية الحجر / تكييل الحجر",
+    "term_category": "measurement",
+    "term_standard": "Stone Measurement / Stone Quantification",
+    "meaning_simple": "عملية قياس كمية الحجر وحسابها إما بالمتر الطولي أو بالمتر المربع بحسب طبيعة الطلبية",
+    "scientific_description": "The process of measuring and quantifying stone quantities using linear meters (for specific profiles or border pieces) or square meters (for surface coverage). This measurement method is used for pricing, ordering, and estimating stone quantities required for a given project",
+    "synonyms": [
+      "قياس الحجر",
+      "حساب كمية الحجر",
+      "مساحة الحجر",
+      "كيلة الحجر",
+      "تكييل الحجر",
+      "كمية الحجر",
+      "كم متر طول",
+      "كم متر مربع"
+    ],
+    "common_usage": [
+      "تسعير الطلبيات بالمتر الطولي أو المربع",
+      "تقدير كميات الحجر اللازمة للمشروع",
+      "حساب فاتورة الزبون عند التسليم",
+      "مقارنة العروض بين الموردين"
+    ],
+    "notes": "التكييل بالمتر الطولي يُستخدم غالباً للقطع ذات الشكل المحدد كالأعتاب والأرضيات والبردورات، بينما يُستخدم المتر المربع للألواح وتكسية الواجهات، وطريقة القياس تؤثر مباشرة على سعر الطلبية"
+  },
+  {
+    "term_local": "شلطة",
+    "term_arabic": "صخرة صغيرة الحجم",
+    "term_category": "stone_classification",
+    "term_standard": "Small Stone Block / Undersized Block",
+    "meaning_simple": "صخرة خام صغيرة الحجم نسبياً مقارنة بالصخر المعتاد الوارد من المحجر، وغالباً لا تستوفي الحجم الكافي للتشغيل الكامل على المنشار",
+    "scientific_description": "A raw stone block that is notably smaller in size compared to the standard blocks supplied from a quarry. Undersized blocks may limit the range of cutting options available and typically yield fewer or smaller slabs during processing, affecting overall production efficiency",
+    "synonyms": [
+      "صخرة صغيرة",
+      "صخرة ناقصة الحجم",
+      "بلوكات",
+      "بلوكة شلط"
+    ],
+    "common_usage": [
+      "وصف الصخر الوارد من المحجر بحجم أقل من المعتاد",
+      "تقييم جدوى تشغيل الصخرة على المنشار",
+      "تصنيف الصخر عند الاستلام من المحجر"
+    ],
+    "notes": "\"الشلطة قد تؤثر على ربحية التشغيل لأن حجمها المحدود يقلل من عدد الألواح الناتجة عنها، وأحياناً يتم بيعها بسعر أقل من الصخر الكبير أو تُستخدم في أعمال معينة لا تتطلب ألواحاً كبيرة"
+  },
+  {
+    "term_local": "توحيد اللون",
+    "term_arabic": "توحيد اللون / انتظام لون الحجر",
+    "term_category": "stone_quality",
+    "term_standard": "Color Consistency / Stone Color Uniformity",
+    "meaning_simple": "مدى انتظام وتجانس لون الحجر وتوحده في نوع معين من الصخر، ويُعدّ معياراً أساسياً في اختيار الحجر وتحديد سعره",
+    "scientific_description": "The degree of color homogeneity and uniformity across stone pieces of the same type or batch. Color consistency is a key quality indicator used in stone selection and pricing, where higher uniformity typically commands a premium price, particularly in projects requiring visually cohesive surfaces such as facades and flooring",
+    "synonyms": [
+      "تجانس اللون",
+      "انتظام اللون",
+      "ثبات لون الحجر",
+      "توحيد",
+      "وحد"
+    ],
+    "common_usage": [
+      "تقييم جودة الحجر عند الشراء",
+      "اختيار الحجر المناسب لمشاريع الحجر",
+      "تسعير الحجر بنائا على درجة توحيد اللون",
+      "فرز الحجر وتصنيفه في المحجر او الورشة"
+    ],
+    "notes": "كلما كانت نسبة التوحيد أعلى كلما ارتفع سعر الحجر في السوق، والتوحيد يتأثر بطبيعة تكوين الصخرة الجيولوجي وموقع استخراجها من المحجر، وبعض أنواع الحجر الفلسطيني تُميَّز وتُسوَّق أساساً على أساس درجة توحيد لونها"
+  },
+  {
+    "term_local": "حز مي",
+    "term_arabic": "حز تصريف المياه / خط الكسر المائي",
+    "term_category": "stone_processing",
+    "term_standard": "Drip Groove / Water Drip Cut",
+    "meaning_simple": "خط عمودي يُحفر بماكنة القص اليدوية على الوجه السفلي للحجر في الجهة الخارجية البارزة من الشباك أو الجدار، والغرض منه منع تسرب مياه الأمطار إلى أسفل الحجر وحماية الباطون والجدار.",
+    "scientific_description": "A continuous longitudinal groove cut along the underside of a projecting stone element — such as a window sill or cornice — using a hand cutting machine (fiber cutter). The groove acts as a drip edge, interrupting the capillary flow of rainwater along the stone's underside and directing it to drip free of the wall surface, thereby protecting the underlying concrete and mortar from water infiltration and deterioration",
+    "synonyms": [
+      "خط تصريف المياه",
+      "حز الكسر المائي",
+      "خط المي",
+      "حز الماء"
+    ],
+    "common_usage": [
+      "حجر عتبات الشبابيك السفلية",
+      "حجر الكورنيش البارز عن الجدار",
+      "أي حجر بارز معرض لمياه الأمطار",
+      "حماية الباطون والجدران من تسرب المياه"
+    ],
+    "notes": "حز المي تفصيل إنشائي ضروري وليس مجرد ديكور، وغيابه يؤدي إلى تسرب المياه خلف الحجر مما يضعف تماسك الباطون ويسبب تآكل الجدار على المدى البعيد، ويُنفَّذ عادةً بماكنة الفيبر اليدوية على بعد 2-3 سم من الحافة الخارجية للحجر"
+  },
+  {
+    "term_local": "فازة",
+    "term_arabic": "تهديب زوايا الحجر / شطف الحجر",
+    "term_category": "finish",
+    "term_standard": "Stone Chamfer / Edge Beveling",
+    "meaning_simple": "عملية تهديب وشطف بسيط لزوايا الحجر باستخدام ماكنة القص اليدوية (الفيبر)، تُعطي الحجر مظهراً أكثر أناقة وتحمي حافته من التكسر",
+    "scientific_description": "A light chamfering or beveling process applied to the edges and corners of stone pieces using a hand-held cutting machine (angle grinder / fiber cutter). The process removes the sharp 90° edge and replaces it with a small angled or rounded profile, improving the stone's aesthetic appearance and reducing the risk of edge chipping",
+    "synonyms": [
+      "تهديب الحجر",
+      "تهديب الزوايا",
+      "عمل فازة"
+    ],
+    "common_usage": [
+      "تشطيب حواف ألواح الأرضيات",
+      "تهديب زوايا حجر الواجهات",
+      "تشطيب حواف الدرج الحجري",
+      "إعطاء الحجر مظهراً نهائياً أنيقاً"
+    ],
+    "notes": "الفازة تختلف عن النقش الكامل كونها عملية خفيفة وسريعة تقتصر على الزوايا فقط، وعمقها وزاويتها يتفاوتان حسب طلب الزبون والاستخدام النهائي للحجر، وهي شائعة جداً في تشطيب حجر الأرضيات والدرج"
+  },
+  {
+    "term_local": "مسنن",
+    "term_arabic": "أثر أسنان النصلة على الحجر",
+    "term_category": "stone_defect",
+    "term_standard": "Blade Mark / Saw Tooth Impression",
+    "meaning_simple": "أثر أسنان نصلة المنجل أو ماكنة القص يظهر على وجه الحجر بعد القص، ويدل على تآكل النصلة أو خلل في عملية القص",
+    "scientific_description": "Visible linear impressions or marks left on the stone surface caused by the diamond blade segments during the cutting process. These marks typically indicate blade wear, improper cutting speed, or feed rate inconsistencies, resulting in an uneven or striated surface finish that may require additional processing to correct",
+    "synonyms": [
+      "اثر النصلة",
+      "خطوط الخص",
+      "علامات الشفرة",
+      "اثر الاسنان"
+    ],
+    "common_usage": [
+      "وصف عيب على وجه الحجر بعد القص",
+      "تقييم حالة النصلة وحاجتها للاستبدال",
+      "فحص جودة الحجر قبل التسليم للزبون",
+      "تحديد الحاجة لمعالجة إضافية للوجه"
+    ],
+    "notes": "ظهور التسنين على وجه الحجر يدل غالباً على تآكل أسنان الماس في النصلة أو على خطأ في سرعة القص، ويُعدّ عيباً في جودة التشغيل يستوجب إما تلميع الوجه أو استبدال النصلة، وأحياناً يُقبل في الأوجه الخلفية غير الظاهرة"
+  },
+  {
+    "term_local": "تفريغ الحجر",
+    "term_arabic": "تجويف الوجه الخلفي للحجر",
+    "term_category": "finish",
+    "term_standard": "Stone Back Routing / Back Relief Cutting",
+    "meaning_simple": "عملية حفر تجويف في الوجه الخلفي غير الظاهر للحجر، بهدف إدخال الباطون وأحياناً قضبان الحديد لتعزيز ثبات الحجر عند التركيب، وتُستخدم خاصةً للحجار الثقيلة والمواقع العالية في البنايات",
+    "scientific_description": "A stone processing technique in which cavities or recesses are cut into the non-visible back face of heavy stone pieces. These recesses allow concrete and sometimes reinforcing steel bars to penetrate and bond with the stone, significantly increasing its structural anchorage and stability when installed at height or in load-bearing positions on building facades",
+    "synonyms": [
+      "jtvdy < ltvyhj < ptv /iv hgp[v < j[",
+      "dt hgp[v"
+    ],
+    "common_usage": [
+      "تركيب الحجار الثقيلة في الطوابق العليا",
+      "تثبيت حجر الواجهات في الأماكن المرتفعة",
+      "تعزيز ثبات الحجر الكبير الحجم",
+      "أعمال الترميم التي تستلزم إضافة تسليح"
+    ],
+    "notes": "تفريغ الحجر إجراء إنشائي مهم لضمان سلامة التركيب في المواقع العالية، إذ يزيد من مساحة التلامس بين الحجر والباطون ويتيح إضافة تسليح حديدي عند الحاجة، مما يقلل خطر سقوط الحجر ويطيل عمره الإنشائي"
+  },
+  {
+    "term_local": "خيط الكيلة",
+    "term_arabic": "خيط قياس الحجر / خيط التكييل",
+    "term_category": "measurement",
+    "term_standard": "Stone Measuring Tape / Cutting Measure String",
+    "meaning_simple": "خيط طوله 5 أمتار أو أكثر يُستخدم داخل منشار الحجر لقياس كميات الحجر وتكييلها، وعلى أساسه يتم تحديد الكميات وحساب الطلبية",
+    "scientific_description": "A measuring string or tape, typically 5 meters or longer, used within stone cutting facilities to measure and quantify stone pieces. It serves as the primary measurement reference for calculating stone quantities during the cutting and order preparation process, determining pricing and delivery amounts",
+    "synonyms": [
+      "خيط التكييل",
+      "خيط القياس",
+      "مقياس الطول"
+    ],
+    "common_usage": [
+      "قياس كميات الحجر داخل المنشار",
+      "تكييل الطلبيات قبل التسليم",
+      "حساب كمية الحجر المقصوص",
+      "تحديد سعر الطلبية بناءً على الكيلة"
+    ],
+    "notes": "خيط الكيلة أداة بسيطة لكنها أساسية في العمل اليومي داخل المنشار، وطوله الزائد عن 5 أمتار يتيح قياس الألواح الطويلة دفعة واحدة دون الحاجة لتكرار القياس، وهو الأساس الذي يُبنى عليه التسعير والتسليم"
+  },
+  {
+    "term_local": "مليان عروق",
+    "term_arabic": "حجر كثير العروق / حجر عروقي",
+    "term_category": "stone_quality",
+    "term_standard": "Heavily Veined Stone / High Vein Density Stone",
+    "meaning_simple": "حجر يحتوي على كثافة عالية من عروق الملح الطبيعية، تمنحه مظهراً جمالياً مميزاً، لكنها قد تكون نقاط ضعف هيكلية تؤدي إلى تكسر الحجر وعدم صلاحيته للبيع أو التركيب",
+    "scientific_description": "A stone characterized by a high density of natural mineral veins, typically composed of salt or calcite deposits formed during the stone's geological development. While heavily veined stone is often prized for its aesthetic appeal, the veins can also represent structural weaknesses that cause the stone to fracture during cutting or installation, rendering it commercially unusable",
+    "synonyms": [
+      "عروق حجر كثيرة"
+    ],
+    "common_usage": [
+      "تقييم جودة الحجر قبل القص",
+      "فرز الحجر الصالح للبيع من غير الصالح",
+      "وصف مظهر الحجر ذو الطابع الجمالي المميز",
+      "تحديد مدى صلاحية الحجر للتركيب في الواجهات"
+    ],
+    "notes": "الحجر المليان عروق يتطلب فحصاً دقيقاً قبل القص، إذ أن كثافة العروق وطبيعتها تحدد ما إذا كانت ميزة جمالية أم عيباً هيكلياً، وأحياناً تكون العروق سطحية فقط فلا تؤثر على متانة الحجر، بينما في حالات أخرى تخترق الحجر بالكامل مما يجعله عرضة للكسر عند القص أو التركيب"
+  },
+  {
+    "term_local": "الوجه النظيف",
+    "term_arabic": "الوجه الجيد للحجر / الوجه الظاهر",
+    "term_category": "stone_quality",
+    "term_standard": "Clean Face / Show Face",
+    "meaning_simple": "الوجه الجيد والخالي من العيوب للوح الحجر، وهو الوجه المخصص للظهور والذي تُطبَّق عليه عمليات التشطيب والفنش",
+    "scientific_description": "The superior face of a stone slab, free from visible defects, cracks, or irregularities, designated as the exposed surface in construction or cladding applications. All finishing operations such as polishing, bush hammering, or sandblasting are applied to this face to achieve the desired final appearance",
+    "synonyms": [
+      "الوجه النظيف",
+      "وجه الشغل",
+      "الوجه الظاهر",
+      "الوجه الجيد"
+    ],
+    "common_usage": [
+      "تحديد الوجه المخصص للتشطيب والفنش",
+      "فرز الألواح وتصنيفها حسب جودة الوجه",
+      "توجيه العمال عند تركيب الحجر",
+      "تقييم جودة اللوح الحجري قبل التشغيل"
+    ],
+    "notes": "تحديد الوجه النظيف خطوة أساسية قبل البدء بأي عملية تشطيب، إذ أن تطبيق الفنش على الوجه الخطأ يؤدي إلى هدر في الوقت والتكلفة، وأحياناً يكون للوح الحجري وجهان مقبولان فيُختار الأفضل منهما كوجه نظيف"
+  },
+  {
+    "term_local": "مخرطة",
+    "term_arabic": "مخرطة الحجر / ماكنة الخراطة",
+    "term_category": "tool",
+    "term_standard": "Stone Lathe / Stone Turning Machine",
+    "meaning_simple": "ماكنة تُثبَّت عليها قطعة الحجر وتُدار بسرعة، فيقوم العامل بخرطها وتشكيلها لإنتاج قطع ديكورية دائرية أو اسطوانية مثل الأعمدة والشربات وغيرها",
+    "scientific_description": "An industrial stone turning machine that rotates a stone piece at controlled speeds while a cutting tool shapes it into symmetrical cylindrical or rounded decorative forms. The process is analogous to wood turning but adapted for stone, enabling the production of architectural elements such as columns, balusters, and decorative stone pieces",
+    "synonyms": [
+      "ماكنة الخراطة",
+      "خراطة الحجر",
+      "مكينة الخرط"
+    ],
+    "common_usage": [
+      "تصنيع الأعمدة الحجرية الكبيرة",
+      "إنتاج الشربات والدرابزين الحجري",
+      "تشكيل القطع الديكورية الدائرية",
+      "تصنيع المزهريات والقواعد الحجرية"
+    ],
+    "notes": "المخرطة تتطلب مهارة عالية من العامل لأن الخرط يتم يدوياً أثناء دوران الحجر، وحجم المخرطة وقوتها يحددان أقصى حجم وقطر للقطعة التي يمكن تشكيلها، وهي من المعدات المتخصصة غير الشائعة في كل الورش"
+  }
+]

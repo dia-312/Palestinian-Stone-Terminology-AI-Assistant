@@ -1,0 +1,20 @@
+# API Keys 
+.env
+
+# ChromaDB 
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
